@@ -1,6 +1,6 @@
 {
-  "projectName": "Open Terms Archive engine",
-  "projectOwner": "OpenTermsArchive",
+  "projectName": "engine",
+  "projectOwner": "clementbiron",
   "files": [
     ".all-contributors.md"
   ],
