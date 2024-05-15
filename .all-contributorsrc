@@ -4,7 +4,17 @@
   "files": [
     ".all-contributors.md"
   ],
-  "contributors": [],
+  "contributors": [
+    {
+      "login": "OTA-Release-Bot",
+      "name": "Open Terms Archive Release Bot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118976747?v=4",
+      "profile": "https://github.com/OTA-Release-Bot",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
   "repoType": "github",
   "commitConvention": "angular",
   "commitType": "docs",
